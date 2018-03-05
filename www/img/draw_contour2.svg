@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="8px" viewBox="0 0 58 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="52.7248391 -0.624883746 55.3923261 6.11635284 49.900857 6.11635284"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.6" y="-0.6" width="6.6914691" height="7.94123659">
+            <rect x="49.300857" y="-1.22488375" width="6.6914691" height="7.94123659" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Configurator-WebApp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4_1" transform="translate(-586.000000, -738.000000)">
+            <g id="Group-15" transform="translate(587.000000, 739.000000)">
+                <g id="Group-5-Copy">
+                    <path d="M4.18400092,3.03442383 L51.7543945,3.03442383" id="Path-9" stroke="#83D7A4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4"></path>
+                    <g id="Triangle" transform="translate(52.646592, 2.745735) rotate(90.000000) translate(-52.646592, -2.745735) ">
+                        <use fill="#83D7A4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <use stroke="#83D7A4" mask="url(#mask-2)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-1"></use>
+                    </g>
+                    <circle id="Oval-2" stroke="#83D7A4" stroke-width="1.6" cx="2" cy="3" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,49 @@
+/** fonts used for the icons **/ 
+
+@font-face
+{
+    font-family: 'SofiaProLight';
+    src: url('fonts/Sofia Pro Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'SofiaProUltraLight';
+    src: url('fonts/Sofia Pro UltraLight.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'SofiaProRegular';
+    src: url('fonts/Sofia Pro Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'SofiaProBold';
+    src: url('fonts/Sofia Pro Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'SofiaProSemiBold';
+    src: url('fonts/Sofia Pro Semi Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'SofiaProExtraLight';
+    src: url('fonts/Sofia Pro ExtraLight.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}

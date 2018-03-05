@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="782px" height="111px" viewBox="0 0 782 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Configurator-WebApp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="help" transform="translate(-584.000000, -191.000000)">
+            <g id="Group-2" transform="translate(584.000000, 191.000000)">
+                <text id="Gewünschte-Zone-einf" transform="translate(184.013077, 80.197795) rotate(-1.000000) translate(-184.013077, -80.197795) " font-family="Journal" font-size="36" font-weight="normal" line-spacing="31" fill="#FFFFFF">
+                    <tspan x="99.8010767" y="83.1977951">Gewünschte Zone einfach mit</tspan>
+                    <tspan x="0.513076661" y="114.197795">Tool oder Maske zeichen und Beschriften</tspan>
+                </text>
+                <g id="Group-8" transform="translate(733.000000, 0.000000)" stroke="#83D7A4">
+                    <g id="Group-6">
+                        <circle id="Oval" stroke-width="1.5" transform="translate(2.268997, 40.596661) rotate(-1.000000) translate(-2.268997, -40.596661) " cx="2.26899676" cy="40.5966615" r="1.5"></circle>
+                        <circle id="Oval" stroke-width="1.5" transform="translate(42.268997, 41.596661) rotate(-1.000000) translate(-42.268997, -41.596661) " cx="42.2689968" cy="41.5966615" r="1.5"></circle>
+                        <path d="M3.28830517,39.9978986 C3.28830517,39.9978986 21.9816645,30.2272163 40.6750239,41.4370994" id="Path-2" stroke-width="1.5" stroke-dasharray="3,3" transform="translate(21.981665, 38.744717) rotate(-1.000000) translate(-21.981665, -38.744717) "></path>
+                        <path d="M26.5864787,30.2189805 L18.8272326,34.0935766 L22.7068556,26.3443845 L45.4303619,3.65032184 C46.5216445,2.56045332 48.2181482,2.56045332 49.309985,3.65032184 C50.4018217,4.74074387 50.4018217,6.43504938 49.309985,7.5249179 L26.5864787,30.2189805 L26.5864787,30.2189805 Z" id="Stroke-2886" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" transform="translate(34.478048, 18.463249) rotate(-10.000000) translate(-34.478048, -18.463249) "></path>
+                        <path d="M45.5292096,7.40587134 L41.6495866,3.53127528" id="Stroke-2887" stroke-width="1.6" stroke-linejoin="round" transform="translate(43.589398, 5.468573) rotate(-10.000000) translate(-43.589398, -5.468573) "></path>
+                        <path d="M28.4407926,31.7770178 L24.5611696,27.9024217" id="Stroke-2888" stroke-width="1.6" stroke-linejoin="round" transform="translate(26.500981, 29.839720) rotate(-10.000000) translate(-26.500981, -29.839720) "></path>
+                    </g>
+                </g>
+                <path d="M713.714844,32.7228494 C713.714844,32.7228494 574.789062,-2.57011936 378,77.7384744" id="Path-13-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="7,7"></path>
+            </g>
+        </g>
+    </g>
+</svg>

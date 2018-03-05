@@ -1,0 +1,212 @@
+.profile-header
+{
+  background-color : #ffffff;
+  padding		   : 20px;
+  margin 		   : 20px;
+  border-radius	   :5px;
+}
+.profile-item
+{
+	color       :#aaa;
+	font-weight :bold;
+	margin      :0px;
+	padding     :0px;	
+}
+.profile-body
+{
+	
+	padding:20px;
+	margin : 20px;
+	border : 10px;
+}
+.module-header
+{
+	margin: 25px;
+	font-size: 30px;
+}
+.beauty-container
+{
+	height			: 350px;
+	background-color: #2BB0D4;
+	border-radius	: 5px;
+	margin-left		:10px;
+}
+.part-container
+{
+	height			: 200px;
+	background-color: #ffffff;
+	border-radius	: 5px;
+	margin-left		:10px;
+}
+.body-container
+{
+	height			: 350px;
+	background-color: #9BD164;
+	border-radius   : 5px;
+	margin-right    : 10px;
+}
+.order-label
+{
+  width: 29px !important;
+  height: 29px !important;
+  background-color: rgb(43, 176, 212);
+  color: white;
+  border-radius: 14.5px;
+  font-size: 18px;
+  line-height: 31px;
+  text-align: center;  
+}
+.order-text
+{
+	/*width: 40px !important;*/
+	height: 30px !important;
+	font-size: 20px;
+	
+	text-align: left;
+}
+.hair-label
+{
+  width: 29px !important;
+  height: 29px !important;
+  background-color: rgb(255, 100, 100);
+  color: white;
+  border-radius: 14.5px;
+  font-size: 18px;
+  line-height: 31px;
+  text-align: center;  
+}
+.hair-text
+{
+  /*width: 40px !important;*/
+  /*height: 30px !important;*/
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+  margin-bottom: 10px;
+}
+.hair-item-title
+{
+  height: 29px !important;
+  color:  rgb(255, 100, 100);
+  font-size: 14px;
+  line-height: 31px;
+  text-align: left;  
+  margin-top: 4px;
+  margin-bottom: -10px;
+}
+.hair-category-title
+{
+  height: 29px !important;
+  color:  #30300;
+  font-size: 13px;
+  line-height: 31px;
+  text-align: left;  
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.hair-subcategory-title
+{
+  float: left;
+  height: 29px !important;
+  color:  black;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left;  
+  margin-top: 2px;
+  margin-bottom: 2px;
+  border-color: #bebebe;
+  border-style: solid;
+  border-width: 1px;
+  max-width: 160px;
+  max-height: 35px;
+  min-width: 160px;
+  min-height: 35px;
+  margin-right: 5px;
+  line-height: 1;
+}
+.hair4-label
+{
+  width: 20px !important;
+  height: 20px !important;
+  background-color: rgb(255, 100, 100);
+  color: white;
+  border-radius: 10px;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;  
+}
+
+.content_header
+{
+  font-family: 'SofiaProSemiBold';
+  font-size: 18px;
+  line-height: 31px;
+  color: rgb(32, 40, 51);
+}
+
+
+.state-label
+{
+  width: 14px !important;
+  height: 14px !important;
+  background-color: rgb(43, 176, 212);
+  color: white;
+  border-radius: 12.5px;
+  font-family: 'SofiaProSemiBold';
+  font-size: 18px;
+  line-height: 31px;
+  text-align: center;  
+}
+.upload_skelton
+{
+  width: 120px;
+  height: 31px;
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+  line-height: 30px;
+  vertical-align: top;
+  margin-left: 6px;
+}
+.remove
+{
+  width: 90px;
+  height: 31px;
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+  line-height: 30px;
+  vertical-align: top;
+  margin-left: 6px;
+
+}
+.removeIcon
+{
+  width: 120px;
+  height: 31px;
+  background-color: white;
+  color: black;
+  border: 1px solid #ccc;
+  line-height: 30px;
+  vertical-align: top;
+  margin-left: 6px;
+}
+
+.btn.btn-default.add_company
+{
+  width: 115px;
+  height: 31px;
+  background-color: rgb(43, 176, 212);
+  color: white;
+  border:none;
+  line-height: 30px;
+}
+
+.h-devider
+{
+  margin-top:5px;
+  margin-bottom: 5px;
+  height: 1px;
+  border-top: 1px solid #bebebe;
+}

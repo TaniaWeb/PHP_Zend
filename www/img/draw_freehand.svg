@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="37px" height="33px" viewBox="0 0 37 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>draw_freehand</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.300857" y="0.5060778" width="6.6914691" height="7.94123659"></rect>
+        <polygon id="path-3" points="3.7248391 1.1060778 6.3923261 7.8473144 0.900857 7.8473144"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="draw_freehand" transform="translate(0.000000, 1.000000)">
+            <g id="Configurator-WebApp">
+                <g id="4_1">
+                    <g id="Group-17">
+                        <g id="Group-12">
+                            <path d="M8.92626953,3.38525391 C8.92626953,3.38525391 -0.635986328,9.80474553 1.19165039,11.3323724 C3.01928711,12.8599993 12.1179199,8.79254099 15.7126465,6.99983354 C19.307373,5.20712609 22.0563965,4.0458002 23.2016602,5.33045466 C24.8466797,6.99983354 13.671875,15.6597094 13.671875,15.6597094 C13.671875,15.6597094 4.46337891,22.8894942 1.24145508,27.5989546 C-1.98046875,32.3084151 3.2734375,31.6752995 8.92626953,29.2338709 C14.5791016,26.7924422 28.5419922,19.8509298 29.6862793,18.9317094" id="Path-8" stroke="#83D7A4" stroke-width="1.6" stroke-dasharray="3,4"></path>
+                            <g id="Triangle" transform="translate(32.559277, 17.356661) rotate(63.000000) translate(-32.559277, -17.356661) translate(29.059277, 12.856661)">
+                                <g id="path-1-link" transform="translate(0.000000, 1.000000)" fill="#83D7A4">
+                                    <polygon id="path-1" points="3.7248391 0.1060778 6.3923261 6.8473144 0.900857 6.8473144"></polygon>
+                                </g>
+                                <g id="Clipped">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Rectangle-path"></g>
+                                    <g id="path-1-link" mask="url(#mask-2)" stroke-width="1.2" stroke="#83D7A4">
+                                        <g transform="translate(0.000000, 1.000000)" id="path-1">
+                                            <polygon points="3.7248391 0.1060778 6.3923261 6.8473144 0.900857 6.8473144"></polygon>
+                                        </g>
+                                    </g>
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <g id="path-1"></g>
+                                </g>
+                            </g>
+                            <circle id="Oval-2" stroke="#83D7A4" stroke-width="1.6" cx="11" cy="2" r="2"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

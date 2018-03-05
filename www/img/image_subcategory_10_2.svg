@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="47px" viewBox="0 0 38 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 33</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-Subcat" transform="translate(-3305.000000, -124.000000)">
+            <g id="Group-33" transform="translate(3307.000000, 126.000000)">
+                <g id="Page-1-Copy-2" stroke="#2BB0D4" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M2.236575,0.359178568 C2.48097105,2.07597592 2.4496003,4.61498616 1.47073469,8.09784703 C-0.839714286,16.3165635 -0.475142857,27.4790976 11.1983265,25.9879569 C19.0554694,25.6900866 30.2530204,21.5127459 34.2462449,18.9812954" id="Stroke-5" stroke-width="3.4"></path>
+                    <path d="M21.4520327,28.9744545 C22.6921143,29.3018435 23.6807673,30.0836413 24.3686041,31.5166391 C26.6099102,36.1850633 25.7299102,39.4034941 25.2701551,43.1926193" id="Stroke-7" stroke-width="3.4"></path>
+                    <path d="M33.5357894,28.4106706 C33.5357894,28.4106706 31.5477174,32.0445992 33.149838,35.2112426" id="Path-3" stroke-width="2" transform="translate(33.030747, 31.810957) rotate(-9.000000) translate(-33.030747, -31.810957) "></path>
+                </g>
+                <polygon id="Star-Copy" stroke="#FFFFFF" stroke-width="2" fill="#2BB0D4" points="18.7113766 28.3167184 12.7094158 31.472136 13.8556883 24.7888544 9 20.0557281 15.7103962 19.0806504 18.7113766 13 21.712357 19.0806504 28.4227532 20.0557281 23.5670649 24.7888544 24.7133374 31.472136"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

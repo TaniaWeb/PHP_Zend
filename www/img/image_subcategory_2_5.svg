@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="69px" height="55px" viewBox="0 0 69 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-Subcat" transform="translate(-136.000000, -347.000000)">
+            <g id="Group" transform="translate(136.000000, 345.000000)">
+                <path d="M9.03975824,55.2257742 C17.7777363,50.8780323 26.3185714,44.7793226 35.7071209,41.853871 C42.823978,39.6362258 51.7158791,41.4257742 58.5332308,44.0010323 C60.72,44.8268065 64.1184396,43.6768065 66.0671209,42.727871 C67.2423956,42.1550968 69.5459341,40.5688387 67.3121538,39.7252581 C57.9220879,36.1788065 47.039044,35.4287097 37.2455934,37.5892258 C24.8096703,40.3321613 13.9652967,47.9177097 2.7509011,53.4970645 C1.7758022,53.9822903 -0.902307692,55.8400968 1.50586813,56.4996774 C3.86172527,57.1451613 6.93942857,56.2711613 9.03975824,55.2257742 L9.03975824,55.2257742 L9.03975824,55.2257742 Z" id="Shape" fill="#2BB0D4"></path>
+                <g id="augenbraue" transform="translate(32.721674, 20.462317) rotate(-9.000000) translate(-32.721674, -20.462317) translate(18.721674, 1.962317)">
+                    <path d="M25.2978723,30.5206349 C25.2978723,30.5206349 25.8297872,19.4031746 24.9787234,6.45079365" id="Shape" stroke="#2BB0D4" stroke-width="1.5"></path>
+                    <polygon id="Shape" fill="#2BB0D4" points="27.6685394 10.7463359 24.4349716 1.64214875 22.7373485 11.1564345"></polygon>
+                    <ellipse id="Oval" stroke="#2BB0D4" stroke-width="1.5" cx="25.3706025" cy="32.325449" rx="1.98685857" ry="2.01587302"></ellipse>
+                    <path d="M3.22340426,33.3809524 C3.22340426,33.3809524 8.80851064,22.5873016 13.7021277,7.63809524" id="Shape" stroke="#2BB0D4" stroke-width="1.5"></path>
+                    <polygon id="Shape" fill="#2BB0D4" points="15.4296139 11.0221168 15.9409522 0.818942216 10.4866768 9.37923277"></polygon>
+                    <ellipse id="Oval" stroke="#2BB0D4" stroke-width="1.5" cx="2.64143788" cy="34.9622915" rx="1.83823529" ry="1.86507937"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

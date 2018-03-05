@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Configurator-WebApp" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit_layer-photo" transform="translate(-559.000000, -455.000000)" stroke="#2BB0D4" stroke-width="2.2">
+            <g id="Group-2" transform="translate(365.000000, 194.000000)">
+                <g id="Group" transform="translate(196.000000, 262.000000)">
+                    <polyline id="Stroke-3093" stroke-linejoin="round" points="33.0616664 34.300463 26.2434061 16.8388093 20.2894723 29.8844941 14.3336493 22.768153 7.55695231 34.300463"></polyline>
+                    <polygon id="Stroke-3094" points="41.5632377 41.8250109 0 41.8250109 0.0415632377 0.439997933 41.5632377 0.39861292"></polygon>
+                    <polyline id="Stroke-3095" stroke-linecap="round" points="45.3204599 15.3687008 50.0652814 15.7994811 46.8186257 51.2306956 11.2348265 47.9979618"></polyline>
+                    <path d="M0.0410909282,33.8604651 L41.5627654,33.8604651" id="Stroke-3096"></path>
+                    <path d="M14.1692856,11.7268196 C14.1692856,13.805476 12.4774729,15.4890935 10.3908094,15.4890935 C8.30320135,15.4890935 6.61233327,13.805476 6.61233327,11.7268196 C6.61233327,9.65004444 8.30320135,7.96454574 10.3908094,7.96454574 C12.4774729,7.96454574 14.1692856,9.65004444 14.1692856,11.7268196 L14.1692856,11.7268196 Z" id="Stroke-3097" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
